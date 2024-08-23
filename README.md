@@ -8,16 +8,6 @@ This is a simple and elegant portfolio website built using Tailwind CSS. It show
 ![Portfolio Screenshot](/images/Screenshot_1.png)
 ![Portfolio Screenshot](/images/Screenshot_2.png)
 
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Responsive Design**: Adapts seamlessly across all devices (desktop, tablet, and mobile).
@@ -32,6 +22,8 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (version 14.x or later)
 - **npm** (version 6.x or later)
 - **Tailwind CSS** (v3.x or later)
+## to clone repo
+
 
 
 
