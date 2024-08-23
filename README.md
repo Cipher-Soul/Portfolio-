@@ -4,9 +4,9 @@ This is a simple and elegant portfolio website built using Tailwind CSS. It show
 
 ## Screenshots
 
-(/images/Screenshot_0.png)
-(/images/Screenshot_1.png)
-(/images/Screenshot_2.png)
+![Portfolio Screenshot](/images/Screenshot_0.png)
+![Portfolio Screenshot](/images/Screenshot_1.png)
+![Portfolio Screenshot](/images/Screenshot_2.png)
 
 ## Table of Contents
 
