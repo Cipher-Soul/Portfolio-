@@ -22,7 +22,6 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (version 14.x or later)
 - **npm** (version 6.x or later)
 - **Tailwind CSS** (v3.x or later)
-## to clone repo
 
 
 
